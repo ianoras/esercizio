@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+header{
+    text-align: center;
+    padding: 10px 0;
+}
+header img{
+    width: 300px;
+    margin:auto
+}
+nav {
+    margin: 10px 0;
+    padding: 15px 0;
+    background-color: rgba(249, 238, 182, 0.695);
+    border-top: solid 2px orange;
+}
+nav p span{
+    font-weight: bold;
+}
+section{
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+   
+}
+h1{
+   
+    font-weight: bold;
+}
+section p {
+    
+    padding: 10px 0;
+}
+section img{
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+
+
+section .paragrafo2{
+    color: gray;
+}
+section div p {
+    color: red;
+    border-left: 1px solid rgba(255, 174, 0, 0.496);
+    padding-left: 15px;
+}
+
+section div,
+section h2,
+section ul,
+section ol,
+.p1,
+.p2{
+    text-align: left;
+    margin: 20px 0
+}
+section .p1,
+.p2{
+    font-weight: bold;
+}
+
+footer p{
+    text-align: center;
+}
